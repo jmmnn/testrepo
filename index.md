@@ -32,7 +32,7 @@ Associate Professor of Information Science
 Affiliate member of Computer Science
 
 
-**Soumik Mandal - Rutgers University**  
+**Soumik Mandal - Rutgers University**
 PhD student - Information Science
 
 
