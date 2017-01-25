@@ -27,7 +27,12 @@ Introduction
 
 An armed conflict is defined as a contested incompatibility which concerns government and/or territory where the use of armed force between two parties, of which at least one is the government of a state, results in at least 25 battle-related deaths (Wallensteen, & Sollenberg, 2001). With this proposed study the researcher aims to provide the academic community with the most comprehensive structured event data available on organized violence in the post-1989 world involving, and finally to provide some predictions about conflict dynamics of the locations and the effects of armed violence, in the form of deaths. Since middle-east is the current hot zone, where every day numerous people are losing their lives due to armed conflicts involving governments, sectarian groups, rebels etc., the researcher has decided to contain this proposed study involving only middle-eastern countries.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Dreamshot/495.embed"></iframe>
+<div>
+    <a href="https://plot.ly/~Dreamshot/495/" target="_blank" title="Percent of Bachelor Degrees (Women) by Year" style="display: block; text-align: center;"><img src="https://plot.ly/~Dreamshot/495.png" alt="Percent of Bachelor Degrees (Women) by Year" style="max-width: 100%;width: 725px;"  width="725" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" />
+    </a>
+    <script data-plotly="Dreamshot:495"  src="https://plot.ly/embed.js" async></script>
+</div>
+
 
 Literature Review
 -----------------
