@@ -63,9 +63,10 @@ attack, 2012). To overcome this, the present study proposes to consider the dura
 factor behind the duration of the conflict.
 
 <div>
-    <a href="https://plot.ly/~chris/2596/" target="_blank" title="matlab_two_axes_plot_style" style="display: block; text-align: center;"><img src="https://plot.ly/~chris/2596.png" alt="matlab_two_axes_plot_style" style="max-width: 100%;width: 840px;"  width="840" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="chris:2596"  src="https://plot.ly/embed.js" async></script>
+    <a href="https://plot.ly/~prismane/129/" target="_blank" title="File5 - GDGT Survey" style="display: block; text-align: center;"><img src="https://plot.ly/~prismane/129.png" alt="File5 - GDGT Survey" style="max-width: 100%;width: 550px;"  width="550" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="prismane:129"  src="https://plot.ly/embed.js" async></script>
 </div>
+
 
 References
 ------------
