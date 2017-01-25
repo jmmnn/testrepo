@@ -15,11 +15,11 @@ Contributors
 
 [![The InfoSeeking Lab at the School of Communication & Information - Rutgers University]({{ site.url }}/img/partners/rutgers.png)](http://www.infoseeking.org/)
 
-**Dr. Chirag Shah - Rutgers University**  
+Dr. Chirag Shah - Rutgers University  
 Associate Professor of Information Science  
 Affiliate member of Computer Science  
 
-**Kevin Albertson - Rutgers University**  
+Kevin Albertson - Rutgers University  
 Master's student - Computer Science and Mathematics
 
 Introduction
