@@ -5,7 +5,7 @@ title:      "Armed Conflict Analytics"
 subtitle:   "Research on armed conflicts worldwide."
 repository: "ArmedConflict"
 date:       2016-09-20 12:00:00
-author:     "Soumik Mandal, PhD student Information Science, Rutgers University"
+author:     "toto, PhD student Information Science, Rutgers University"
 goal:		16
 partners:   
   - partner: "Rutgers University - InfoSeeking Lab"
